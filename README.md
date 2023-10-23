@@ -1,2 +1,4 @@
 # AdultMultURLS
-Web scrapper for active URL's of AdultMult
+Web scrapper for active URL's of AdultMult  
+  
+Скрипт старий та, ймовірно, неактуальний, але може служити для навчальних цілей. Автор даного скрипта не заохочує до споживання неліцензійного (піратського) контенту
